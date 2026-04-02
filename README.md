@@ -1,46 +1,60 @@
-# Hasan Harman 👨‍💻
+# Hey, I'm Hasan 👋
 
-Hi! I'm Hasan, a passionate web developer from Turkey, focused on building dynamic, user-friendly applications with **React**, **Next.js**, and **React Native**. I love contributing to the open-source community and sharing knowledge with fellow developers.
+Curious engineer & frontend developer from Istanbul 🇹🇷  
+I build tools developers actually use, and occasionally things about Middle-earth and Star Trek.
 
-[![Website Badge](https://img.shields.io/badge/-Web-000?style=flat-square&logo=google-chrome&logoColor=white)](https://www.hasanharman.dev/)
-[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasanharman)](https://www.linkedin.com/in/hasanharman/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/strad3r)](https://twitter.com/strad3r)
-
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on an [open-source form builder](https://github.com/hasanharman/form-builder) built using **Shadcn**, **React Hook Form**, **Zod**, and **Yup**.
-- 🌱 I’m always learning about the latest in **web development**, focusing on **frontend frameworks** and **performance optimization**.
-- 💼 I'm available for **open-source collaborations** or **freelance projects**.
-- ⚡ Fun fact: I love exploring the intersection of **AI** and **web development**.
+[![Website](https://img.shields.io/badge/hasanharman.dev-000?style=flat&logo=google-chrome&logoColor=white)](https://hasanharman.dev)
+[![Twitter](https://img.shields.io/badge/@strad3r-000?style=flat&logo=x&logoColor=white)](https://twitter.com/strad3r)
+[![LinkedIn](https://img.shields.io/badge/hasanharman-000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanharman/)
+[![Unsplash](https://img.shields.io/badge/@haskup-000?style=flat&logo=unsplash&logoColor=white)](https://unsplash.com/@haskup)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/hasanharman)
 
 ---
 
-## 🛠️ Technologies & Tools
+### What I'm building
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-[![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanharman&show_icons=true&theme=radical)](https://github.com/hasanharman)
+| Project | Description | |
+|---|---|---|
+| [**Shadcn Form Builder**](https://www.shadcn-form.com/) | Visual form builder for shadcn/ui + React Hook Form + Zod — drag, drop, ship. | ⭐ 2.7k |
+| [**Iso Middle Earth**](https://isomiddleearth.com/) | Isometric world-builder set in Tolkien's Middle-earth. 7 realms, tile by tile. | ⭐ 321 |
+| [**Freelance Timer**](https://github.com/hasanharman/freelance-timer) | Minimal macOS menubar app to track freelance sessions. Swift + SwiftUI. | 🍎 |
+| [**TrekDate**](https://www.npmjs.com/package/trekdate) | Convert JS dates to Star Trek TNG stardates. `npm install trekdate` | 🖖 |
 
 ---
 
-## ☕ Support My Work
+### Stack
 
-If you find my projects useful, consider [sponsoring](https://github.com/sponsors/hasanharman) my work. Your support helps me keep contributing to the open-source community, creating tools, and improving developer productivity.
-
-[![Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?style=flat-square&logo=GitHub-Sponsors&logoColor=white)](https://github.com/sponsors/hasanharman)
+```
+Frontend     React · Next.js · TypeScript · Tailwind CSS · shadcn/ui · Framer Motion
+Mobile       React Native · Swift · SwiftUI
+Backend      Node.js · Firebase · Supabase · Core Data
+Tools        Zod · React Hook Form · Zustand · Vercel · Git
+```
 
 ---
 
-Thank you for visiting! Feel free to connect with me. Let's build amazing things together!
+### Currently
+
+- ️ Maintaining [shadcn-form.com](https://www.shadcn-form.com/) — used by thousands of developers
+- 🗺️ Building isometric worlds at [isomiddleearth.com](https://isomiddleearth.com/)
+- 📸 Shooting photos on [Unsplash](https://unsplash.com/@haskup)
+- 💼 Open to **collaborations** and **sponsorships**
+
+---
+
+<details>
+<summary>📊 GitHub Stats</summary>
+<br>
+
+<a href="https://github.com/hasanharman">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hasanharman&show_icons=true&theme=graywhite&hide_border=true" />
+</a>
+<a href="https://github.com/hasanharman">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanharman&layout=compact&theme=graywhite&hide_border=true" />
+</a>
+
+</details>
+
+---
+
+If my projects help you, consider [sponsoring my work](https://github.com/sponsors/hasanharman) or [buying me a coffee](https://buymeacoffee.com/hasanharman) ☕
