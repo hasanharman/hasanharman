@@ -16,7 +16,7 @@ I build tools developers actually use, and occasionally things about Middle-eart
 | Project | Description | |
 |---|---|---|
 | [**Shadcn Form Builder**](https://www.shadcn-form.com/) | Visual form builder for shadcn/ui + React Hook Form + Zod — drag, drop, ship. | ⭐ 2.7k |
-| [**Iso Middle Earth**](https://isomiddleearth.com/) | Isometric world-builder set in Tolkien's Middle-earth. 7 realms, tile by tile. | ⭐ 621 |
+| [**Iso Middle Earth**](https://isomiddleearth.com/) | Isometric world-builder set in Tolkien's Middle-earth. 7 realms, tile by tile. | ⭐ 654 |
 | [**Freelance Timer**](https://github.com/hasanharman/freelance-timer) | Minimal macOS menubar app to track freelance sessions. Swift + SwiftUI. | 🍎 |
 | [**TrekDate**](https://www.npmjs.com/package/trekdate) | Convert JS dates to Star Trek TNG stardates. `npm install trekdate` | 🖖 |
 
